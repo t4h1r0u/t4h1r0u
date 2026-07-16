@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tahar Belhouchat
 
-I'm based in Algiers, Algeria. I work with Linux (Ubuntu) and I'm starting my coding journey.
+I'm based in El Harrach, Algiers, Algeria. I work with Linux (Ubuntu) and I'm starting my coding journey.
 
 ---
 
